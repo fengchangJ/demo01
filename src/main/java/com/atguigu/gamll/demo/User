@@ -1,4 +1,4 @@
-package com.atguigu.atcrowdfunding.bean;
+package com.atguigu.gmall.demo.bean;
 
 public class User {
     private Integer id;
